@@ -1,0 +1,11 @@
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\bin\Debug\net5.0\VendaZap.Comum.deps.json
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\bin\Debug\net5.0\VendaZap.Comum.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\bin\Debug\net5.0\ref\VendaZap.Comum.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\bin\Debug\net5.0\VendaZap.Comum.pdb
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\obj\Debug\net5.0\VendaZap.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\obj\Debug\net5.0\VendaZap.Comum.AssemblyInfoInputs.cache
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\obj\Debug\net5.0\VendaZap.Comum.AssemblyInfo.cs
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\obj\Debug\net5.0\VendaZap.Comum.csproj.CoreCompileInputs.cache
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\obj\Debug\net5.0\VendaZap.Comum.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\obj\Debug\net5.0\ref\VendaZap.Comum.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum\obj\Debug\net5.0\VendaZap.Comum.pdb

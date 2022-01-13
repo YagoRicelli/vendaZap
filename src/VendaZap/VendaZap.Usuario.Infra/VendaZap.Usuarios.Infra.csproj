@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.22" />
+    <PackageReference Include="SimpleInjector" Version="5.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VendaZap.Usuario.Dados\VendaZap.Usuarios.Dados.csproj" />
+    <ProjectReference Include="..\VendaZap.Usuario.Dominio\VendaZap.Usuarios.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

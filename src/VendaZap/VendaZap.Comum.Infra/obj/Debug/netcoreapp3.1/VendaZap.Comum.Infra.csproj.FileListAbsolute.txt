@@ -1,0 +1,9 @@
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\bin\Debug\netcoreapp3.1\VendaZap.Comum.Infra.deps.json
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\bin\Debug\netcoreapp3.1\VendaZap.Comum.Infra.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\bin\Debug\netcoreapp3.1\VendaZap.Comum.Infra.pdb
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\obj\Debug\netcoreapp3.1\VendaZap.Comum.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\obj\Debug\netcoreapp3.1\VendaZap.Comum.Infra.AssemblyInfoInputs.cache
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\obj\Debug\netcoreapp3.1\VendaZap.Comum.Infra.AssemblyInfo.cs
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\obj\Debug\netcoreapp3.1\VendaZap.Comum.Infra.csproj.CoreCompileInputs.cache
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\obj\Debug\netcoreapp3.1\VendaZap.Comum.Infra.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Comum.Infra\obj\Debug\netcoreapp3.1\VendaZap.Comum.Infra.pdb

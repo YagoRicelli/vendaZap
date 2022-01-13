@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VendaZap.Api</name>
+    </assembly>
+    <members>
+        <member name="M:VendaZap.Api.Admin.Controllers.Chapa.Consulta">
+            <summary>
+            Obter chapas 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.Telefone.Consulta(System.String)">
+            <summary>
+            Telefones usuário 
+            </summary>
+            <param name="idUsuario">Dados do usuário</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.Telefone.Cadatrar(System.String,VendaZap.Usuarios.Dominio.CasosDeUso.Telefones.Cadastrar.CadastroTelefoneCommand)">
+            <summary>
+            Cadastrar telefone usuário
+            </summary>
+            <param name="idUsuario">Identificador do usuário</param>
+            <param name="command">Dados do usuário</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.Telefone.Editar(System.String,VendaZap.Usuarios.Dominio.CasosDeUso.Telefones.Editar.EdicaoTelefoneCommand)">
+            <summary>
+            Editar telefone usuário
+            </summary>
+            <param name="id">Identificador do telefone</param>
+            <param name="command">Dados do usuário</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.Telefone.Excluir(System.String)">
+            <summary>
+            Excluir telefone usuário
+            </summary>
+            <param name="id">Identificador do telefone</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.UsuarioController.Login(VendaZap.Usuarios.Dominio.CasosDeUso.Cadastrar.CadastroUsuarioCommand)">
+            <summary>
+            Cadastrar usuário
+            </summary>
+            <param name="command">Dados do usuário</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.UsuarioController.Consultar(System.String)">
+            <summary>
+            Obter dados usuário 
+            </summary>
+            <param name="id">Identificador usuário</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.UsuarioController.ConsultarLideres">
+            <summary>
+            Obter usuários lideres 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.UsuarioController.Excluir(System.String)">
+            <summary>
+            Excluir usuário
+            </summary>
+            <param name="id">Identificador usuário</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Admin.Controllers.UsuarioController.Editar(System.String,VendaZap.Usuarios.Dominio.CasosDeUso.Usuarios.Editar.EdicaoUsuarioCommand)">
+            <summary>
+            Editar usuário
+            </summary>
+            <param name="id">Identificador usuário</param>
+            <returns></returns>
+        </member>
+        <member name="M:VendaZap.Api.Publico.Controllers.LoginController.RealizarLogin(VendaZap.Usuarios.Dominio.CasosDeUso.RealizarLogin.RealizaLoginCommand)">
+            <summary>
+             Realizar login
+            </summary>
+            <param name="command">Dados do usuário</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

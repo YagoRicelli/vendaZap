@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulos", "Modulos", "{83634999-8D55-4DDA-9A84-06B2495E514D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{8AC0C6AC-F051-44B7-A7F0-7E7C3FDC518E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendaZap.Api", "VendaZap.Api\VendaZap.Api.csproj", "{94F9ACE5-82ED-4344-B07F-3577EB850C01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Usuarios", "Usuarios", "{E0F70F30-A988-40CE-9501-1F5A9F9A8566}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendaZap.Usuarios.Dados", "VendaZap.Usuario.Dados\VendaZap.Usuarios.Dados.csproj", "{696D8E86-76D6-4F29-903B-A71E0D4FF002}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendaZap.Usuarios.Dominio", "VendaZap.Usuario.Dominio\VendaZap.Usuarios.Dominio.csproj", "{DA0B1500-87D6-4996-B197-1D004E2E99CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendaZap.Usuarios.Infra", "VendaZap.Usuario.Infra\VendaZap.Usuarios.Infra.csproj", "{17F85374-1546-469E-9FA4-7B3BA611D21B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendaZap.Usuarios.Testes", "VendaZap.Usuario.Testes\VendaZap.Usuarios.Testes.csproj", "{1AD06197-AA9A-4B59-BE74-22BF92FFF4DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Compartilhado", "Compartilhado", "{A3482401-F7B0-4555-8D31-C9AAF84BAE1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendaZap.Comum.Infra", "VendaZap.Comum.Infra\VendaZap.Comum.Infra.csproj", "{EAB9E866-BC9B-4BB7-BDAE-41826D87D3C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendaZap.Comum", "VendaZap.Comum\VendaZap.Comum.csproj", "{3B946389-0C77-4B52-8239-95FD14559FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendaZap.Comum.Testes", "VendaZap.Comum.Testes\VendaZap.Comum.Testes.csproj", "{53D4966F-37A1-4D29-82F1-A27C183F6038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F9ACE5-82ED-4344-B07F-3577EB850C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F9ACE5-82ED-4344-B07F-3577EB850C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F9ACE5-82ED-4344-B07F-3577EB850C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F9ACE5-82ED-4344-B07F-3577EB850C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696D8E86-76D6-4F29-903B-A71E0D4FF002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696D8E86-76D6-4F29-903B-A71E0D4FF002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696D8E86-76D6-4F29-903B-A71E0D4FF002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696D8E86-76D6-4F29-903B-A71E0D4FF002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0B1500-87D6-4996-B197-1D004E2E99CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0B1500-87D6-4996-B197-1D004E2E99CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0B1500-87D6-4996-B197-1D004E2E99CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0B1500-87D6-4996-B197-1D004E2E99CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F85374-1546-469E-9FA4-7B3BA611D21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F85374-1546-469E-9FA4-7B3BA611D21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F85374-1546-469E-9FA4-7B3BA611D21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F85374-1546-469E-9FA4-7B3BA611D21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD06197-AA9A-4B59-BE74-22BF92FFF4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD06197-AA9A-4B59-BE74-22BF92FFF4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD06197-AA9A-4B59-BE74-22BF92FFF4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD06197-AA9A-4B59-BE74-22BF92FFF4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAB9E866-BC9B-4BB7-BDAE-41826D87D3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB9E866-BC9B-4BB7-BDAE-41826D87D3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB9E866-BC9B-4BB7-BDAE-41826D87D3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB9E866-BC9B-4BB7-BDAE-41826D87D3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B946389-0C77-4B52-8239-95FD14559FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B946389-0C77-4B52-8239-95FD14559FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B946389-0C77-4B52-8239-95FD14559FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B946389-0C77-4B52-8239-95FD14559FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D4966F-37A1-4D29-82F1-A27C183F6038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D4966F-37A1-4D29-82F1-A27C183F6038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D4966F-37A1-4D29-82F1-A27C183F6038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D4966F-37A1-4D29-82F1-A27C183F6038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{94F9ACE5-82ED-4344-B07F-3577EB850C01} = {8AC0C6AC-F051-44B7-A7F0-7E7C3FDC518E}
+		{E0F70F30-A988-40CE-9501-1F5A9F9A8566} = {83634999-8D55-4DDA-9A84-06B2495E514D}
+		{696D8E86-76D6-4F29-903B-A71E0D4FF002} = {E0F70F30-A988-40CE-9501-1F5A9F9A8566}
+		{DA0B1500-87D6-4996-B197-1D004E2E99CE} = {E0F70F30-A988-40CE-9501-1F5A9F9A8566}
+		{17F85374-1546-469E-9FA4-7B3BA611D21B} = {E0F70F30-A988-40CE-9501-1F5A9F9A8566}
+		{1AD06197-AA9A-4B59-BE74-22BF92FFF4DE} = {E0F70F30-A988-40CE-9501-1F5A9F9A8566}
+		{EAB9E866-BC9B-4BB7-BDAE-41826D87D3C2} = {A3482401-F7B0-4555-8D31-C9AAF84BAE1E}
+		{3B946389-0C77-4B52-8239-95FD14559FD4} = {A3482401-F7B0-4555-8D31-C9AAF84BAE1E}
+		{53D4966F-37A1-4D29-82F1-A27C183F6038} = {A3482401-F7B0-4555-8D31-C9AAF84BAE1E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABBDEDFB-4628-4BF2-9E68-EC6677E915F3}
+	EndGlobalSection
+EndGlobal

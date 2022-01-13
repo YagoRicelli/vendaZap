@@ -1,0 +1,15 @@
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\bin\Debug\net5.0\VendaZap.Usuarios.Dominio.deps.json
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\bin\Debug\net5.0\VendaZap.Usuarios.Dominio.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\bin\Debug\net5.0\ref\VendaZap.Usuarios.Dominio.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\bin\Debug\net5.0\VendaZap.Usuarios.Dominio.pdb
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\bin\Debug\net5.0\VendaZap.Comum.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\bin\Debug\net5.0\VendaZap.Comum.pdb
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.csproj.AssemblyReference.cache
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.AssemblyInfoInputs.cache
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.AssemblyInfo.cs
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.csproj.CoreCompileInputs.cache
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.csproj.CopyComplete
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\ref\VendaZap.Usuarios.Dominio.dll
+C:\zup\vendazap-backend\src\VendaZap\VendaZap.Usuario.Dominio\obj\Debug\net5.0\VendaZap.Usuarios.Dominio.pdb
